@@ -26,6 +26,8 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/-Csharp-23CC6699?style=lat-square&logo=csharp&logoColor=FFFFF&labelColor=%23512BD4&color=%23512BD4)
+
 
 #### Front-end:
 ![Static Badge](https://img.shields.io/badge/-Bootstrap-23CC6699?style=lat-square&logo=bootstrap&logoColor=FFFFFF&color=%237952B3)
