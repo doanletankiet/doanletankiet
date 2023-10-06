@@ -11,14 +11,14 @@
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:mail@brennanbrown.ca)
 
 
-<p align="center"> :octocat: <b><a href="https://sojou.id.vn">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://sojou.id.vn">Website</a> </b> :octocat: </p>
 
 ## About Me :wave:
 
 Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in Viet Nam. 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
-## Technologies I'm Learning :books:
+## Technologies:
 
 #### Software:
 
@@ -43,7 +43,7 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 #### Back-end:
 ![PHP](https://img.shields.io/badge/--php?style=flat-square&logo=php&logoColor=%23FFFFF&label=PHP&labelColor=%23000000&color=%23000000)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql))
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/--mongodb?style=flat-square&logo=mongodb&logoColor=%2347A248&label=MongoDB&labelColor=%23000000&color=%23000000) 
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=FFFFFF&labelColor=%234479A1)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -59,4 +59,5 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 
 <hr/>
 
-:star: From [@BrennanBrown](https://github.com/brennanbrown)
+:star: From [@doanletankiet](https://github.com/doanletankiet)
+Contact me: 0337271004
