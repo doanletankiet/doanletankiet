@@ -54,8 +54,9 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![VS](https://img.shields.io/badge/--visualstudio?style=flat-square&logo=visualstudio&logoColor=%235C2D91&label=Visual%20Studio&color=ffffff)
-![Postman](https://img.shields.io/badge/--postman?style=flat-square&logo=postman&logoColor=%23FF6C37&label=Postman&&color=ffffff)
+![VS](https://img.shields.io/badge/-visualstudio-235C2D91?style=flat-square&logo=visualstudio&logoColor=%235C2D91&label=Visual%20Studio&color=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=%23FF6C37&labelColor=%23000000)
+
 
 
 <hr/>
