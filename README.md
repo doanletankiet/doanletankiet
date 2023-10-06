@@ -45,7 +45,7 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql))
 ![MongoDB](https://img.shields.io/badge/--mongodb?style=flat-square&logo=mongodb&logoColor=%2347A248&label=MongoDB&labelColor=%23000000&color=%23000000) 
-![MySQL](https://img.shields.io/badge/--mysql?style=flat-square&logo=mysql&logoColor=%234479A1&label=MySQL&labelColor=%23FFFFF&color=%23FFFFFF)
+![MySQL](https://img.shields.io/badge/--mysql?style=flat-square&logo=mysql&logoColor=%234479A1&label=MySQL&labelColor=%23FFFFF&color=%23FFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
@@ -54,8 +54,8 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![VS](https://img.shields.io/badge/--visualstudio?style=flat-square&logo=visualstudio&logoColor=%235C2D91&label=Visual%20Studio&labelColor=%23FFFFF&color=%23FFFFFF)
-![Postman](https://img.shields.io/badge/--postman?style=flat-square&logo=postman&logoColor=%23FF6C37&label=Postman&labelColor=%23FFFFF&color=%23FFFFFF)
+![VS](https://img.shields.io/badge/--visualstudio?style=flat-square&logo=visualstudio&logoColor=%235C2D91&label=Visual%20Studio&labelColor=%23FFFFF&color=%23FFFFF)
+![Postman](https://img.shields.io/badge/--postman?style=flat-square&logo=postman&logoColor=%23FF6C37&label=Postman&labelColor=%23FFFFF&color=%23FFFFF)
 
 
 <hr/>
