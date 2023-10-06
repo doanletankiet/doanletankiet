@@ -22,27 +22,30 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 
 #### Software:
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/-Csharp-23CC6699?style=lat-square&logo=csharp&logoColor=FFFFF&labelColor=%23512BD4&color=%23512BD4)
+![C](https://img.shields.io/badge/--C?style=flat-square&logo=c&logoColor=%23FFFFF&labelColor=%23239DFF&color=%23239DFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
+![Csharp](https://img.shields.io/badge/-Csharp-23CC6699?style=lat-square&logo=csharp&logoColor=FFFFF&labelColor=%23512BD4&color=%23512BD4)
 
 
 #### Front-end:
-![Static Badge](https://img.shields.io/badge/-Bootstrap-23CC6699?style=lat-square&logo=bootstrap&logoColor=FFFFFF&color=%237952B3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-23CC6699?style=lat-square&logo=bootstrap&logoColor=FFFFFF&color=%237952B3)
+![AntDesign](https://img.shields.io/badge/--antdesign?style=flat-square&logo=antdesign&logoColor=%230170FE&label=Ant%20Design&labelColor=%23000000&color=%23000000)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/--nextdotjs?style=flat-square&logo=nextdotjs&logoColor=%23FFFFF&label=NextJS&labelColor=%23000000&color=%23000000)
+
 <!--![Rails](http://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)
 ![Jekyll](http://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=ffffff) -->
 
 
 #### Back-end:
-
+![PHP](https://img.shields.io/badge/--php?style=flat-square&logo=php&logoColor=%23FFFFF&label=PHP&labelColor=%23000000&color=%23000000)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql))
+![MongoDB](https://img.shields.io/badge/--mongodb?style=flat-square&logo=mongodb&logoColor=%2347A248&label=MongoDB&labelColor=%23000000&color=%23000000) 
+![MySQL](https://img.shields.io/badge/--mysql?style=flat-square&logo=mysql&logoColor=%234479A1&label=MySQL&labelColor=%23FFFFF&color=%23FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
@@ -51,6 +54,9 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![VS](https://img.shields.io/badge/--visualstudio?style=flat-square&logo=visualstudio&logoColor=%235C2D91&label=Visual%20Studio&labelColor=%23FFFFF&color=%23FFFFFF)
+![Postman](https://img.shields.io/badge/--postman?style=flat-square&logo=postman&logoColor=%23FF6C37&label=Postman&labelColor=%23FFFFF&color=%23FFFFFF)
+
 
 <hr/>
 
