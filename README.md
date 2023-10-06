@@ -42,6 +42,7 @@ Hey there! :smile: My name is Sojou. I'm a 22-year-old Métis web developer in V
 
 #### Back-end:
 ![PHP](https://img.shields.io/badge/--php?style=flat-square&logo=php&logoColor=%23FFFFF&label=PHP&labelColor=%23000000&color=%23000000)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/--mongodb?style=flat-square&logo=mongodb&logoColor=%2347A248&label=MongoDB&labelColor=%23000000&color=%23000000) 
